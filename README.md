@@ -2,7 +2,7 @@
 
 In this project, I have developed a deep learning project that can distinguish urban sounds using the [Urban Sounds Dataset](https://urbansounddataset.weebly.com/urbansound8k.html). 
 
-Actually this project was a bootcamp project made by [Global AI Hub](https://globalaihub.com/). This repository is the part I made in the mentioned project
+Actually this project was a bootcamp project made by [Global AI Hub](https://globalaihub.com/). This repository is the part I made in the mentioned project.
 
 ![image](https://user-images.githubusercontent.com/74237094/194168887-b867257e-6776-41a6-b3b7-ab5a54aa4653.png)
 
